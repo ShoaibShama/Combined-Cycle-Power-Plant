@@ -14,3 +14,6 @@ The HRSG creates steam from the gas turbine exhaust heat and delivers it to the 
 ### 3) Steam turbine delivers additional electricity:
 
 The steam turbine sends its energy to the generator drive shaft, where it is converted into additional electricity.
+### Prediction Score Achieved
+![WhatsApp Image 2022-06-13 at 6 00 37 PM](https://user-images.githubusercontent.com/98227015/173354075-047b4b02-5cb1-420e-bff2-47437367546b.jpeg)
+
